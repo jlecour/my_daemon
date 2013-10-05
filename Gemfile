@@ -16,6 +16,7 @@ gem 'daemon-kit'
 
 gem 'safely' # Optional, but recommended.
 
+gem 'newrelic_rpm'
 # gem 'toadhopper' # For reporting exceptions to hoptoad
 # gem 'mail' # For reporting exceptions via mail
 
